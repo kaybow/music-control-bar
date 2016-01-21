@@ -48,11 +48,7 @@ body {
   max-height: 50px;
   left: 0;
   top: 0;
-}
-
-.time {
-  position: relative;
-  width: 100%;
+  z-index: 1000;
 }
 
 .time-bar {
@@ -65,8 +61,8 @@ body {
   background-color: #aaa;
   position: absolute;
   width: 100%;
-  left: 3.1;
-  bottom: -0.7;
+  right: 0;
+  bottom: 0;
 }
 
 /*
@@ -109,13 +105,13 @@ body {
 
 .control-shuffle {
   position: absolute;
-  top: 0.2;
+  top: 10;
   left: 3;
 }
 
 .control-list {
   position: absolute;
-  right: 0.2;
+  right: 5;
   top: 0.2;
 
 }
