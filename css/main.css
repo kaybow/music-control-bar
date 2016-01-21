@@ -45,7 +45,7 @@ body {
 
 .album {
   position: absolute;
-  max-height: 50px;
+  max-height: 57px;
   left: 0em;
   top: 0em;
 }
@@ -81,10 +81,14 @@ body {
 
 .time-lapsed {
   font-size: .7rem;
+  position: absolute;
+  left: 5.5em;
+  top: 2.75em;
 }
 
 .time-total {
   font-size: .7rem;
+  position: absolute;
 }
 
 .controls {
