@@ -23,6 +23,7 @@ body {
 }
 
 .music-bar {
+  position: relative;
   min-height: 50px;
   padding-top: 6px;
   background-image: linear-gradient(to bottom, #e2e2e2, #ccc);
