@@ -45,7 +45,7 @@ body {
 
 .album {
   position: absolute;
-  max-height: 57px;
+  max-height: 50px;
   left: 0em;
   top: 0em;
 }
@@ -64,7 +64,7 @@ body {
   background-color: #aaa;
   position: absolute;
   width: 100%;
-  left: 3.5em;
+  left: 3.1em;
   bottom: -0.7em;
 }
 
@@ -87,13 +87,13 @@ body {
   font-size: .7rem;
   position: absolute;
   left: 5.5em;
-  top: 2.75em;
+  top: -1.25em;
 }
 
 .time-total {
   font-size: .7rem;
   position: absolute;
-  top: 2.75em;
+  top: -1.25em;
   right: 0.75em;
 }
 
